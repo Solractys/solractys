@@ -27,7 +27,7 @@
 ### Other
 
 <div style="display: inline_block; margin-top: 15px;">
-  <img alt="kali" height="45" width="45" style="margin-right: 10px;"  src="https://github.com/jonasotow/KaliLinux-Plymouth/blob/master/kali-logo.png?raw=true" />
+  <img alt="kali" height="45" width="45" style="margin-right: 10px;"  src="[https://github.com/jonasotow/KaliLinux-Plymouth/blob/master/kali-logo.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg)" />
   <img alt="nodejs" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="github" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img alt="graphql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
