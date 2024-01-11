@@ -4,7 +4,7 @@
 - ✨ Purpose: full-cycle developer
 - 🌱 I’m currently learning: Tailwindcss and React
 - 🎓 Undergrad: Computer Science (Currently)
-- 
+
 
 ### Languages
 
