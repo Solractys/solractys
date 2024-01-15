@@ -2,7 +2,7 @@
 
 ### whoami
 - ✨ Purpose: full-cycle developer
-- 🌱 I’m currently learning: Tailwindcss and React
+- 🌱 I’m currently learning: React and NextJS
 - 🎓 Undergrad: Computer Science (Currently)
 
 ### Languages
@@ -20,7 +20,7 @@
 
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="TW" height="45" width="45" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
-  <img alt="express" height="45" width="45" style="margin-right: 15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img alt="NextJS" height="45" width="45" style="margin-right: 15px;" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*okiCUvTUJLtOqJv1dMzwpA.png">
   <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
 </div>
 
