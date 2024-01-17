@@ -29,12 +29,13 @@
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="kali" height="45" width="65" style="margin-right: 10px;"  src="https://forums.kali.org/images/misc/kali-2.0-logo-TM.png" />
   <img alt="nodejs" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="github" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img alt="github" height="45" width="45" style="margin-right: 10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
+  <img alt="github" height="45" width="45" style="margin-right: 10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
   <img alt="graphql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
   <img alt="vscode" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="npm" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <br/>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Solractys&show_icons=true&theme=aura_dark&include_all_commits=false&count_private=true"/>
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Solractys&show_icons=true&theme=aura-light&include_all_commits=true&count_private=true"/>
 </div>
