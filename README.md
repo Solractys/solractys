@@ -1,9 +1,13 @@
 # Hello and welcome, I'm Carlos
-
+https://github.com/Solractys/solractys/blob/main/README.md
 ### whoami
 - ✨ Purpose: full-cycle developer
 - 🌱 I’m currently learning: React, NextJS and TypeScript.
 - 🎓 Undergrad: Computer Science (Currently)
+
+<div >
+  <a href="https://leetcode.com/carloseduardossl/" target="_blank"><img height="30" width="120" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>
+</div>
 
 ### Languages
 
