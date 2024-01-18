@@ -1,5 +1,5 @@
 # Hello and welcome, I'm Carlos
-https://github.com/Solractys/solractys/blob/main/README.md
+
 ### whoami
 - ✨ Purpose: full-cycle developer
 - 🌱 I’m currently learning: React, NextJS and TypeScript.
