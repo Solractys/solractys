@@ -25,6 +25,7 @@
 
 <div style="display: inline_block; margin-top: 15px;">
   <img alt="TW" height="45" width="45" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
+  <img alt="AG" height="45" width="45" style="margin-right: 10px;"  src="https://www.alura.com.br/artigos/assets/novidades-angular-17/imagem1.gif"/>
   <img alt="NextJS" height="45" width="45" style="margin-right: 15px;" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*okiCUvTUJLtOqJv1dMzwpA.png">
   <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
 </div>
