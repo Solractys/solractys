@@ -43,5 +43,5 @@
 <br/>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Solractys&show_icons=true&theme=aura-light&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solractys&layout=compact&langs_count=8&theme=light"/>
 </div>
