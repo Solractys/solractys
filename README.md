@@ -2,7 +2,7 @@
 
 ### whoami
 - ✨ Purpose: full-cycle developer
-- 🌱 I’m currently learning: React, NextJS and TypeScript.
+- 🌱 I’m currently learning: NeoVim and Backend with Node.
 - 🎓 Undergrad: Computer Science (Currently)
 
 <div >
