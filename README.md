@@ -1,47 +1,28 @@
-# Hello and welcome, I'm Carlos
+# Welcome to my Github Profile! 👋
 
-### whoami
-- ✨ Purpose: full-cycle developer
-- 🌱 I’m currently learning: Java and Spring Framework.
-- 🎓 Undergrad: Computer Science (Currently)
+## About Me
 
-<div >
-  <a href="https://leetcode.com/carloseduardossl/" target="_blank"><img height="30" width="120" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png"/></a>
-</div>
+Hello! My name is Carlos, a Computer Science student interested about software development. Currently, I'm focused on becoming a Full-cycle developer, exploring a variety of technologies and frameworks.
 
-### Languages
+- 🎓 Currently pursuing a degree in Computer Science.
+- 💻 Proficient in JavaScript, C#, TypeScript, Python, HTML, CSS, React, Next.js, Angular, SQL, Docker, Git, and Shell Script.
+- 🌱 Learning Java, Spring Framework, and JUnit to further expand my skill set.
 
-<div style="display: inline_block; margin-top: 15px;">
-  <img alt="nodejs" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="js" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Typ" height="45" width="45" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
-  <img alt="CS" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="html5" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="css" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
-  <img alt="sass" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt="markdown" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-</div>
+## Technologies I Use
 
-### Frameworks
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=sql&logoColor=white)
+- Frameworks: ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white), ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white), ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-green?logo=spring&logoColor=white)
+- Tools: ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white),![NeoVim](https://img.shields.io/badge/-NeoVim-green?logo=neovim&logoColor=white)
+- Others: ![Shell Script](https://img.shields.io/badge/-Shell%20Script-black?logo=gnu-bash&logoColor=white)
 
-<div style="display: inline_block; margin-top: 15px;">
-  <img alt="TW" height="45" width="45" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
-  <img alt="AG" height="45" width="45" style="margin-right: 10px;"  src="https://www.alura.com.br/artigos/assets/novidades-angular-17/imagem1.gif"/>
-  <img alt="NextJS" height="45" width="45" style="margin-right: 15px;" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*okiCUvTUJLtOqJv1dMzwpA.png">
-  <img alt="react" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />   
-</div>
 
-### Other
 
-<div style="display: inline_block; margin-top: 15px;">
-  <img alt="NeoVim" height="45" width="65" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" />
-  <img alt="kali" height="45" width="65" style="margin-right: 10px;"  src="https://forums.kali.org/images/misc/kali-2.0-logo-TM.png" />
-  <img alt="Arch" height="45" width="65" style="margin-right: 10px;"  src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Antu_distributor-logo-archlinux.svg" />
-  <img alt="github" height="45" width="45" style="margin-right: 10px;" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
-  <img alt="graphql" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-  <img alt="vscode" height="45" width="45" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="npm" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<br/>
+## Contact
+
+If you want to get in touch with me, feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/carlos-lima-020671251/)!
+
+Let's connect and collaborate on some interesting projects! 😊
+
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solractys&layout=compact&langs_count=8&theme=light"/>
