@@ -5,7 +5,6 @@
 Hello! My name is Carlos, a Computer Science student interested about software development. Currently, I'm focused on becoming a Full-cycle developer, exploring a variety of technologies and frameworks.
 
 - 🎓 Currently pursuing a degree in Computer Science.
-- 💻 Proficient in JavaScript, C#, TypeScript, Python, HTML, CSS, React, Next.js, Angular, SQL, Docker, Git, and Shell Script.
 - 🌱 Learning Java, Spring Framework, and JUnit to further expand my skill set.
 
 ## Technologies I Use
