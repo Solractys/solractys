@@ -40,7 +40,7 @@
 </p>
 
 
-## Technologies I Use
+## Technologies
 
 - Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white), ![C#](https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white), ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=sql&logoColor=white), ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white) 
 - Frameworks: ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white), ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white), ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-green?logo=spring&logoColor=white)
