@@ -32,7 +32,9 @@
 <a href="https://github.com/42sp-fconde-p-teams/ShellyRox">
   <img width="140" src="https://github.com/user-attachments/assets/aa05c41c-118c-43ea-8e49-e25c54bcf907"/>
 </a>
-
+<a href="https://github.com/Solractys/Philosophers">
+  <img width="140" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png?raw=true"/>
+</a>
 
 
 
